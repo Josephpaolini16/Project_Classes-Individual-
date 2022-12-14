@@ -11,3 +11,9 @@ This is a small scale hospital management system built using Python. It provides
 This project requires the following to run:
 
 Python 3.6 or later
+
+## Installation and Usage
+To install and use this project, follow these steps:
+
+Clone or download the repository
+run each file individually to run each class
