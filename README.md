@@ -16,4 +16,4 @@ Python 3.6 or later
 To install and use this project, follow these steps:
 
 Clone or download the repository
-run each file individually to run each class
+run each file individually to run the Management.py file. 
